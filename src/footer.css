@@ -1,0 +1,18 @@
+.footer_clear{
+    text-align: center;
+}
+.clear{
+    margin-bottom: 0px!important;
+}
+.row1{
+    height: 2px;
+    width: 0px;
+    background-color: red;
+   margin-bottom: 10px;
+    transition: width 1s;
+    margin-left: 93px;
+}
+
+.footer_clear:hover .row1{
+    width: 100px;
+}

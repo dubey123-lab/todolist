@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient( #F16852 , #F1527C)
+}
+
+.main-div{
+  height: auto;
+  width: 300px;
+  padding-bottom: 10px;
+  background-color: #F3F6FB;
+}
